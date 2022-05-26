@@ -1,3 +1,3 @@
 # Trainings
 
-# work completed in traings
+# work completed in trainings
