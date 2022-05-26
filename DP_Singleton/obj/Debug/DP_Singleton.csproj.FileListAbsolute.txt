@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\bin\Debug\DP_Singleton.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\bin\Debug\DP_Singleton.exe
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\bin\Debug\DP_Singleton.pdb
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\obj\Debug\DP_Singleton.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\obj\Debug\DP_Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\obj\Debug\DP_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\obj\Debug\DP_Singleton.exe
+C:\Users\Nagaraju_Onteru\source\repos\DP_Singleton\obj\Debug\DP_Singleton.pdb

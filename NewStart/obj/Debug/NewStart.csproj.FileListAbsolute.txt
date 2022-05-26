@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\bin\Debug\NewStart.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\bin\Debug\NewStart.exe
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\bin\Debug\NewStart.pdb
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\obj\Debug\NewStart.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\obj\Debug\NewStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\obj\Debug\NewStart.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\obj\Debug\NewStart.exe
+C:\Users\Nagaraju_Onteru\source\repos\NewStart\obj\Debug\NewStart.pdb

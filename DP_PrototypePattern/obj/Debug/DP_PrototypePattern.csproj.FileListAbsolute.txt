@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\obj\Debug\DP_PrototypePattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\obj\Debug\DP_PrototypePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\obj\Debug\DP_PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\bin\Debug\DP_PrototypePattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\bin\Debug\DP_PrototypePattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\bin\Debug\DP_PrototypePattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\obj\Debug\DP_PrototypePattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\DP_PrototypePattern\obj\Debug\DP_PrototypePattern.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\bin\Debug\DP_BuilderPattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\bin\Debug\DP_BuilderPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\bin\Debug\DP_BuilderPattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\obj\Debug\DP_BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\obj\Debug\DP_BuilderPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\obj\Debug\DP_BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\obj\Debug\DP_BuilderPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\DP_BuilderPattern\obj\Debug\DP_BuilderPattern.pdb
