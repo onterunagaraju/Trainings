@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

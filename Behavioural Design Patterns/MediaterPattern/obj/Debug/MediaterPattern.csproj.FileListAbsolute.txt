@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\bin\Debug\MediaterPattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\bin\Debug\MediaterPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\bin\Debug\MediaterPattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\obj\Debug\MediaterPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\obj\Debug\MediaterPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\obj\Debug\MediaterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\obj\Debug\MediaterPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\MediaterPattern\obj\Debug\MediaterPattern.pdb

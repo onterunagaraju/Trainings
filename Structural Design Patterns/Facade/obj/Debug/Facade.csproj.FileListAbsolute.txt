@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\Facade\bin\Debug\Facade.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\Facade\bin\Debug\Facade.exe
+C:\Users\Nagaraju_Onteru\source\repos\Facade\bin\Debug\Facade.pdb
+C:\Users\Nagaraju_Onteru\source\repos\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\Facade\obj\Debug\Facade.exe
+C:\Users\Nagaraju_Onteru\source\repos\Facade\obj\Debug\Facade.pdb

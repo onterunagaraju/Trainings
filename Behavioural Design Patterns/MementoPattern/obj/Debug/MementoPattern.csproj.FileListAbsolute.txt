@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\bin\Debug\MementoPattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\obj\Debug\MementoPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\obj\Debug\MementoPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\obj\Debug\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\obj\Debug\MementoPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\MementoPattern\obj\Debug\MementoPattern.pdb

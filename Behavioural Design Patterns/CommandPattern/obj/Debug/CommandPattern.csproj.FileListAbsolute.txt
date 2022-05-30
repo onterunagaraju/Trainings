@@ -1,0 +1,8 @@
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\obj\Debug\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\obj\Debug\CommandPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\CommandPattern\obj\Debug\CommandPattern.pdb
