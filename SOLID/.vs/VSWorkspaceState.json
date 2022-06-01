@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LSP_ISP\\Solution"
+    "\\DIP",
+    "\\LSP_ISP",
+    "\\LSP_ISP\\Solution",
+    "\\OCP"
   ],
-  "SelectedNode": "\\obj",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

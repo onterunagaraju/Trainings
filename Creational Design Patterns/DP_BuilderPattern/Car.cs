@@ -34,7 +34,7 @@ namespace DP_BuilderPattern
         }
         public void EndOperations()
         {
-            //Nothing in this case
+            product.Add("Build Completed");
         }
         public Product GetVehicle()
         {

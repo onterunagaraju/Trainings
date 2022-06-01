@@ -6,3 +6,11 @@ C:\Users\Nagaraju_Onteru\source\repos\DP_FactoryPattern\obj\Debug\DP_FactoryPatt
 C:\Users\Nagaraju_Onteru\source\repos\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.csproj.CoreCompileInputs.cache
 C:\Users\Nagaraju_Onteru\source\repos\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.exe
 C:\Users\Nagaraju_Onteru\source\repos\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.pdb
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\bin\Debug\DP_FactoryPattern.exe.config
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\bin\Debug\DP_FactoryPattern.exe
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\bin\Debug\DP_FactoryPattern.pdb
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.exe
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Creational Design Patterns\DP_FactoryPattern\obj\Debug\DP_FactoryPattern.pdb
