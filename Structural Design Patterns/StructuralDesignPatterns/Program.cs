@@ -18,6 +18,7 @@ namespace StructuralDesignPatterns
             IRect adapter = new TriangleAdapter(t);
             //Passing a Triangle instead of a Rectangle
             Console.WriteLine("\nArea of Triangle with Triangle Adapter is :{0} Square unit", GetArea(adapter));
+            Console.ReadLine();
         }
         private static double GetArea(IRect r)
         {

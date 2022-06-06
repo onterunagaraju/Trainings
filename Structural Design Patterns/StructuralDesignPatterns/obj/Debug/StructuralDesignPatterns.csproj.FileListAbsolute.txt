@@ -6,3 +6,11 @@ C:\Users\Nagaraju_Onteru\source\repos\StructuralDesignPatterns\obj\Debug\Structu
 C:\Users\Nagaraju_Onteru\source\repos\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.csproj.CoreCompileInputs.cache
 C:\Users\Nagaraju_Onteru\source\repos\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.exe
 C:\Users\Nagaraju_Onteru\source\repos\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.pdb
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\bin\Debug\StructuralDesignPatterns.exe.config
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\bin\Debug\StructuralDesignPatterns.exe
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\bin\Debug\StructuralDesignPatterns.pdb
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.exe
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\StructuralDesignPatterns\obj\Debug\StructuralDesignPatterns.pdb
