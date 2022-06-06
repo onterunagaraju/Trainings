@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BridgeDesignPattern",
-    "\\CompositePattern",
-    "\\DecoratorPattern",
     "\\DecoratorPattern\\ConcreteDecorator",
     "\\DecoratorPattern\\Decorator",
-    "\\Facade",
-    "\\ProxyDesignPattern",
-    "\\StructuralDesignPatterns",
     "\\StructuralDesignPatterns\\AdapterPattern"
   ],
-  "SelectedNode": "\\StructuralDesignPatterns\\StructuralDesignPatterns.csproj",
+  "SelectedNode": "\\ProxyDesignPattern",
   "PreviewInSolutionExplorer": false
 }

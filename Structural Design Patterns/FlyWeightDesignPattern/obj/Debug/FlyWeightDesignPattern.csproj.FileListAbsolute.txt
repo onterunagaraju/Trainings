@@ -1,0 +1,16 @@
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\bin\Debug\FlyWeightDesignPattern.exe.config
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\bin\Debug\FlyWeightDesignPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\bin\Debug\FlyWeightDesignPattern.pdb
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.exe
+C:\Users\Nagaraju_Onteru\source\repos\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.pdb
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\bin\Debug\FlyWeightDesignPattern.exe.config
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\bin\Debug\FlyWeightDesignPattern.exe
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\bin\Debug\FlyWeightDesignPattern.pdb
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.exe
+C:\Users\Nagaraju_Onteru\Desktop\Trainings\Structural Design Patterns\FlyWeightDesignPattern\obj\Debug\FlyWeightDesignPattern.pdb
