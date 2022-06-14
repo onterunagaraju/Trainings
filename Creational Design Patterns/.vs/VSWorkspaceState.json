@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DP_AbstractFactory",
     "\\DP_AbstractFactory\\AbstractProducts",
     "\\DP_AbstractFactory\\Factories",
     "\\DP_AbstractFactory\\Products"
   ],
-  "SelectedNode": "\\DP_AbstractFactory\\Factories",
+  "SelectedNode": "\\DP_PrototypePattern",
   "PreviewInSolutionExplorer": false
 }

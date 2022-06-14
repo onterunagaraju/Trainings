@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DecoratorPattern\\Component",
+    "\\DecoratorPattern\\ConcreteComponent",
     "\\DecoratorPattern\\ConcreteDecorator",
     "\\DecoratorPattern\\Decorator",
     "\\StructuralDesignPatterns\\AdapterPattern"
